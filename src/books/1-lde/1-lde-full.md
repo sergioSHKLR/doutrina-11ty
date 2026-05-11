@@ -100,13 +100,13 @@ Tal meio de correspondência era, porém, demorado e incômodo. O Espírito (e i
 O conselho foi dado simultaneamente na América, na França e em diversos outros países. Eis em que termos o deram em Paris, a 10 de junho de 1853, a um dos mais fervorosos adeptos da Doutrina e que, havia muitos anos, desde 1849, se ocupava com a evocação dos Espíritos:
 
 ::: spirit
-Vai buscar, no aposento ao lado, a cestinha; amarra-lhe um lápis; coloca-a sobre o papel; põe-lhe os teus dedos sobre a borda.
+👻 ► Vai buscar, no aposento ao lado, a cestinha; amarra-lhe um lápis; coloca-a sobre o papel; põe-lhe os teus dedos sobre a borda.
 :::
 
 Alguns instantes após, a cesta entrou a mover-se e o lápis escreveu, muito legível, esta frase:
 
 ::: spirit
-Proíbo expressamente que transmitas a quem quer que seja o que acabo de dizer. Da primeira vez que escrever, escreverei melhor.
+👻 ► Proíbo expressamente que transmitas a quem quer que seja o que acabo de dizer. Da próxima vez que escrever, escreverei melhor.
 :::
 
 O objeto a que se adapta o lápis, não passando de mero instrumento, completamente indiferentes são a natureza e a forma que tenha. Daí o haver-se procurado dar-lhe a disposição mais cômoda. Assim é que muita gente se serve de uma prancheta pequena.
@@ -256,8 +256,10 @@ Julgar a questão dos Espíritos por esses fatos seria tão pouco lógico, quant
 Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiqueis no subúrbio; vede, observai e julgareis; os fatos aí estão para todo o mundo. A menos que lhes sejam aplicáveis estas palavras de Jesus:
 
 ::: bible
-*Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*  
-Mateus, cap. 13, vers. 14, ARC
+✝️ ► *Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*  
+  
+Mateus, cap. 13, vers. 14, ARC  
+  
 :::
 
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a intervenção de uma potência diabólica, novo Proteu que revestiria todas as formas, para melhor nos enganar. Não a julgamos suscetível de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está refutada pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o diabo é às vezes bastante criterioso e ponderado, sobretudo, muito moral; ou, então, em que há bons diabos.
@@ -271,7 +273,8 @@ Esquisito é, acrescentam, que só se fale dos Espíritos de personagens conheci
 Acham também singular que os Espíritos dos homens eminentes acudam familiarmente ao nosso chamado e se ocupem, às vezes, com coisas insignificantes, comparadas com as de que cogitavam durante a vida. Nada aí há de surpreendente para os que sabem que a autoridade, ou a consideração de que tais homens gozaram neste mundo, nenhuma supremacia lhes dá no mundo espírita. Nisto, os Espíritos confirmam estas palavras do Evangelho:
 
 ::: bible
-*E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.*<br><br>
+✝️ ► *E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.*
+
 Mateus, cap. 23, vers. 12, ARC
 :::
 
@@ -378,21 +381,21 @@ No número dos Espíritos que concorreram para a execução desta obra, muitos s
 Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de escrever este livro:
 
 ::: spirit
-Ocupa-te, cheio de zelo e perseverança, do trabalho que empreendeste com o nosso concurso, pois esse trabalho é nosso. Nele pusemos as bases de um novo edifício que se eleva e que um dia há de reunir todos os homens num mesmo sentimento de amor e caridade. Mas, antes de o divulgares, revê-lo-emos juntos, a fim de lhe verificarmos todas as minúcias.<br><br>
+👻 ► Ocupa-te, cheio de zelo e perseverança, do trabalho que empreendeste com o nosso concurso, pois esse trabalho é nosso. Nele pusemos as bases de um novo edifício que se eleva e que um dia há de reunir todos os homens num mesmo sentimento de amor e caridade. Mas, antes de o divulgares, revê-lo-emos juntos, a fim de lhe verificarmos todas as minúcias.
 
-Estaremos contigo sempre que o pedires, para te ajudarmos nos teus trabalhos, porquanto esta é apenas uma parte da missão que te está confiada e que já um de nós te revelou.<br><br>
+Estaremos contigo sempre que o pedires, para te ajudarmos nos teus trabalhos, porquanto esta é apenas uma parte da missão que te está confiada e que já um de nós te revelou.
 
-Entre os ensinos que te são dados, alguns há que deves guardar para ti somente, até nova ordem. Quando chegar o momento de os publicares, nós to diremos. Enquanto esperas, medita sobre eles, a fim de estares pronto quando te dissermos.<br><br>
+Entre os ensinos que te são dados, alguns há que deves guardar para ti somente, até nova ordem. Quando chegar o momento de os publicares, nós to diremos. Enquanto esperas, medita sobre eles, a fim de estares pronto quando te dissermos.
 
-Porás no cabeçalho do livro a cepa que te desenhamos [^3], porque é o emblema do trabalho do Criador. Aí se acham reunidos todos os princípios materiais que melhor podem representar o corpo e o espírito. O corpo é a cepa; o espírito é o licor; a alma ou espírito ligado à matéria é o bago. O homem quintessencia o espírito pelo trabalho e tu sabes que só mediante o trabalho do corpo o Espírito adquire conhecimentos.<br><br>
+Porás no cabeçalho do livro a cepa que te desenhamos [^3], porque é o emblema do trabalho do Criador. Aí se acham reunidos todos os princípios materiais que melhor podem representar o corpo e o espírito. O corpo é a cepa; o espírito é o licor; a alma ou espírito ligado à matéria é o bago. O homem quintessencia o espírito pelo trabalho e tu sabes que só mediante o trabalho do corpo o Espírito adquire conhecimentos.
 
-Não te deixes desanimar pela crítica. Encontrarás contraditores encarniçados, sobretudo entre os que têm interesse nos abusos. Encontrá-los-ás mesmo entre os Espíritos, por isso que os que ainda não estão completamente desmaterializados procuram frequentemente semear a dúvida por malícia ou ignorância. Prossegue sempre. Crê em Deus e caminha com confiança: aqui estaremos para te amparar e vem próximo o tempo em que a Verdade brilhará de todos os lados.<br><br>
+Não te deixes desanimar pela crítica. Encontrarás contraditores encarniçados, sobretudo entre os que têm interesse nos abusos. Encontrá-los-ás mesmo entre os Espíritos, por isso que os que ainda não estão completamente desmaterializados procuram frequentemente semear a dúvida por malícia ou ignorância. Prossegue sempre. Crê em Deus e caminha com confiança: aqui estaremos para te amparar e vem próximo o tempo em que a Verdade brilhará de todos os lados.
 
-A vaidade de certos homens, que julgam saber tudo e tudo querem explicar a seu modo, dará nascimento a opiniões dissidentes. Mas todos os que tiverem em vista o grande princípio de Jesus se confundirão num só sentimento: o do amor do bem e se unirão por um laço fraterno, que prenderá o mundo inteiro. Estes deixarão de lado as miseráveis questões de palavras, para só se ocuparem com o que é essencial. E a Doutrina será sempre a mesma, quanto ao fundo, para todos os que receberem comunicações de Espíritos superiores.<br><br>
+A vaidade de certos homens, que julgam saber tudo e tudo querem explicar a seu modo, dará nascimento a opiniões dissidentes. Mas todos os que tiverem em vista o grande princípio de Jesus se confundirão num só sentimento: o do amor do bem e se unirão por um laço fraterno, que prenderá o mundo inteiro. Estes deixarão de lado as miseráveis questões de palavras, para só se ocuparem com o que é essencial. E a Doutrina será sempre a mesma, quanto ao fundo, para todos os que receberem comunicações de Espíritos superiores.
 
-Com a perseverança é que chegarás a colher os frutos de teus trabalhos. O prazer que experimentarás, vendo a Doutrina propagar-se e bem compreendida, será uma recompensa, cujo valor integral conhecerás, talvez mais no futuro do que no presente. Não te inquietes, pois, com os espinhos e as pedras que os incrédulos ou os maus acumularão no teu caminho. Conserva a confiança: com ela chegarás ao fim e merecerás ser sempre ajudado.<br><br>
+Com a perseverança é que chegarás a colher os frutos de teus trabalhos. O prazer que experimentarás, vendo a Doutrina propagar-se e bem compreendida, será uma recompensa, cujo valor integral conhecerás, talvez mais no futuro do que no presente. Não te inquietes, pois, com os espinhos e as pedras que os incrédulos ou os maus acumularão no teu caminho. Conserva a confiança: com ela chegarás ao fim e merecerás ser sempre ajudado.
 
-Lembra-te de que os bons Espíritos só dispensam assistência aos que servem a Deus com humildade e desinteresse e que repudiam a todo aquele que busca na senda do Céu um degrau para conquistar as coisas da Terra; que se afastam do orgulhoso e do ambicioso. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e Deus. São um véu lançado sobre as claridades celestes, e Deus não pode servir-se do cego para fazer perceptível a luz.<br><br>
+Lembra-te de que os bons Espíritos só dispensam assistência aos que servem a Deus com humildade e desinteresse e que repudiam a todo aquele que busca na senda do Céu um degrau para conquistar as coisas da Terra; que se afastam do orgulhoso e do ambicioso. O orgulho e a ambição serão sempre uma barreira erguida entre o homem e Deus. São um véu lançado sobre as claridades celestes, e Deus não pode servir-se do cego para fazer perceptível a luz.
 
 João Evangelista<br>Santo Agostinho<br>São Vicente de Paulo<br>São Luís<br>O Espírito da Verdade<br>Sócrates<br>Platão<br>Fénelon<br>Franklin<br>Swedenborg<br>entre outros.
 :::
@@ -743,7 +746,8 @@ Como criou Deus o Universo?
 
 > Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa vontade onipotente do que estas belas palavras:
 ::: bible
-Deus disse: Faça-se a luz e a luz foi feita.<br><br>
+✝️ ► Deus disse: Faça-se a luz e a luz foi feita.  
+
 Gênesis, cap. 1, vers. 3, ARC
 :::
 
@@ -1526,7 +1530,8 @@ Por demônios, segundo a acepção vulgar da palavra, se entendem seres essencia
 A primeira condição de toda doutrina é ser lógica. Ora, à dos demônios, no sentido absoluto, falta esta base essencial. Concebe-se que povos atrasados, os quais, por desconhecerem os atributos de Deus, admitem em suas crenças divindades maléficas, também admitam demônios; mas é ilógico e contraditório que quem faz da bondade um dos atributos essenciais de Deus suponha haver Ele criado seres destinados ao mal e a praticá-lo perpetuamente, porque isso equivale a lhe negar a bondade. Os partidários dos demônios se apoiam nas palavras do Cristo. Não seremos nós quem conteste a autoridade de seus ensinos, que desejáramos ver mais no coração do que na boca dos homens; porém estarão aqueles partidários certos do sentido que Ele dava a esse vocábulo? Não é sabido que a forma alegórica constitui um dos caracteres distintivos da sua linguagem? Dever-se-á tomar ao pé da letra tudo o que o Evangelho contém? Não precisamos de outra prova além da que nos fornece esta passagem:
 
 ::: bible
-*E, logo depois da aflição daqueles dias, o sol escurecerá, e a lua não dará a sua luz, e as estrelas cairão do céu, e as potências dos céus serão abaladas. Em verdade vos digo que não passará esta geração sem que todas essas coisas aconteçam.*.<br><br>
+✝️ ► *E, logo depois da aflição daqueles dias, o sol escurecerá, e a lua não dará a sua luz, e as estrelas cairão do céu, e as potências dos céus serão abaladas. Em verdade vos digo que não passará esta geração sem que todas essas coisas aconteçam.*.  
+
 Mateus, cap. 24, vers. 29 e 34, ARC
 :::
 
@@ -2477,7 +2482,8 @@ Vimos de apreciar a alma com relação ao seu passado e ao seu presente. Se a co
 Haverá alguma doutrina capaz de resolver esses problemas? Admitam-se as existências consecutivas e tudo se explicará conforme a Justiça de Deus. O que se não pôde fazer numa existência faz-se em outra. Assim é que ninguém escapa à lei do progresso, que cada um será recompensado segundo o seu merecimento **real** e que ninguém fica excluído da felicidade suprema, a que todos podem aspirar, quaisquer que sejam os obstáculos com que topem no caminho. Essas questões facilmente se multiplicariam ao infinito, porquanto inúmeros são os problemas psicológicos e morais que só na pluralidade das existências encontram solução. Limitamo-nos a formular as de ordem mais geral. Como quer que seja, alegar-se-á talvez que a Igreja não admite a doutrina da reencarnação; que ela subverteria a religião. Não temos o intuito de tratar dessa questão neste momento. Basta-nos o havermos demonstrado que aquela doutrina é eminentemente moral e racional. Ora, o que é moral e racional não pode estar em oposição a uma religião que proclama ser Deus a bondade e a razão por excelência. Que teria sido da religião, se, contra a opinião universal e o testemunho da ciência, se houvesse obstinadamente recusado a render-se à evidência e expulsado de seu seio todos os que não acreditassem no movimento do Sol ou nos seis dias da Criação? Que crédito houvera merecido e que autoridade teria tido, entre povos cultos, uma religião fundada em erros manifestos e que os impusesse como artigos de fé? Logo que a evidência se patenteou, a Igreja, criteriosamente, se colocou do lado da evidência. Uma vez provado que certas coisas existentes seriam impossíveis sem a reencarnação, que, a não ser por esse meio, não se consegue explicar alguns pontos do dogma, cumpre admiti-lo e reconhecer meramente aparente o antagonismo entre esta doutrina e a dogmática. Mais adiante mostraremos que talvez seja muito menor do que se pensa a distância que, da doutrina das vidas sucessivas, separa a religião e que a esta não faria aquela doutrina maior mal do que lhe fizeram as descobertas do movimento da Terra e dos períodos geológicos, as quais, à primeira vista, pareceram desmentir os textos sagrados. Ademais, o princípio da reencarnação ressalta de muitas passagens das Escrituras, achando-se especialmente formulado, de modo explícito, no Evangelho:
 
 ::: bible
-E, descendo eles do monte, Jesus lhes ordenou, dizendo: *A ninguém conteis a visão até que o Filho do Homem seja ressuscitado dos mortos.* E os seus discípulos o interrogaram, dizendo: Por que dizem, então, os escribas que é mister que Elias venha primeiro? E Jesus, respondendo, disse-lhes: *Em verdade Elias virá primeiro e restaurará todas as coisas. Mas digo-vos que Elias já veio, e não o conheceram, mas fizeram-lhe tudo o que quiseram. Assim farão eles também padecer o Filho do Homem.* Então, entenderam os discípulos que lhes falara de João Batista.<br><br>
+✝️ ► E, descendo eles do monte, Jesus lhes ordenou, dizendo: *A ninguém conteis a visão até que o Filho do Homem seja ressuscitado dos mortos.* E os seus discípulos o interrogaram, dizendo: Por que dizem, então, os escribas que é mister que Elias venha primeiro? E Jesus, respondendo, disse-lhes: *Em verdade Elias virá primeiro e restaurará todas as coisas. Mas digo-vos que Elias já veio, e não o conheceram, mas fizeram-lhe tudo o que quiseram. Assim farão eles também padecer o Filho do Homem.* Então, entenderam os discípulos que lhes falara de João Batista.  
+
 Mateus, cap. 17, vers. 9 a 13, ARC
 :::
 
@@ -2494,9 +2500,10 @@ Reconheçamos, portanto, em resumo, que só a doutrina da pluralidade das exist�
 As próprias palavras de Jesus não permitem dúvida a tal respeito.
 
 ::: bible
-Respondendo a Nicodemos, disse Jesus: *Em verdade, em verdade te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de Deus.*. Disse-lhe Nicodemos: Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez? Respondeu Jesus: *Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**.
->
-> João, cap. 3, vers. 3-7, ARC
+✝️ ► Respondendo a Nicodemos, disse Jesus: *Em verdade, em verdade te digo que, se um homem **não nascer de novo**, não poderá ver o Reino de Deus.*. Disse-lhe Nicodemos: Como pode um homem nascer já estando velho? Pode tornar ao ventre de sua mãe para nascer segunda vez? Respondeu Jesus: *Em verdade, em verdade te digo que, se um homem não renascer da água e do Espírito, não poderá entrar no Reino de Deus. O que é nascido da carne é carne e o que é nascido do Espírito é Espírito. Não te admires de que Eu te tenha dito: **é necessário que torneis a nascer**.*  
+
+João, cap. 3, vers. 3-7, ARC
+:::
 
 👉 ([1010](#1010))
 
@@ -2989,7 +2996,8 @@ Como devemos entender essa elevação e esse rebaixamento?
 > Não sabes que os Espíritos são de diferentes ordens, conforme seus méritos? Pois bem! O maior da Terra pode pertencer à última categoria entre os Espíritos, ao passo que o seu servo pode estar na primeira. Compreendes isto? Não disse Jesus:
 
 ::: bible
-*E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.*.<br><br>
+✝️ ► *E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.*.
+
 Mateus, cap. 23, vers. 12, ARC
 :::
 
@@ -4511,7 +4519,8 @@ Por que meio podemos neutralizar a influência dos maus Espíritos?
 
 > Praticando o bem e pondo em Deus toda a vossa confiança, repelireis a influência dos Espíritos inferiores e aniquilareis o império que desejem ter sobre vós. Guardai-vos de atender às sugestões dos Espíritos que vos suscitam maus pensamentos, que sopram a discórdia entre vós outros e que vos insuflam as paixões más. Desconfiai especialmente dos que vos exaltam o orgulho, pois que esses vos assaltam pelo lado fraco. Essa a razão por que Jesus, na oração dominical, vos ensinou a dizer:
 ::: bible
-*E não nos induzas à tentação, mas livra-nos do mal ….*<br><br>
+✝️ ► *E não nos induzas à tentação, mas livra-nos do mal ….*  
+
 Mateus, cap. 6, vers. 13, ARC
 :::
 
@@ -5876,7 +5885,8 @@ Estando sujeito ao erro, não pode o homem enganar-se na apreciação do bem e d
 > Jesus disse:
 
 ::: bible
-*Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.*<br><br>
+✝️ ► *Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.*  
+
 Mateus, cap. 7, vers. 12, ARC
 :::
 
@@ -6120,7 +6130,8 @@ Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por
 > Aos homens disse o Cristo:
 > 
 ::: bible
-*Amarás o teu próximo como a ti mesmo.*
+✝️ ► *Amarás o teu próximo como a ti mesmo.*  
+
 Mateus, cap. 22, vers. 39, ARC
 :::
 
@@ -6892,7 +6903,8 @@ Disse Jesus: *todos os que lançarem mão da espada à espada morrerão.* (✝�
 > Tomai cuidado! Muito vos tendes enganado a respeito dessas palavras, **como acerca de outras**. A pena de talião é a Justiça de Deus. É Deus quem a aplica. Todos vós sofreis essa pena a cada instante, pois que sois punidos naquilo em que haveis pecado, **nesta existência ou em outra**. Aquele que foi causa do sofrimento para seus semelhantes virá a achar-se numa condição em que sofrerá o que tenha feito sofrer. Este o sentido das palavras de Jesus. Não vos disse Ele também:
 
 ::: bible
-*Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.*.<br><br>
+✝️ ► *Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.*.  
+
 Mateus, cap. 6, vers. 14, ARC
 :::
 
@@ -7361,7 +7373,8 @@ A alta posição do homem neste mundo e o ter autoridade sobre os seus semelhant
 A riqueza e o poder fazem nascer todas as paixões que nos prendem à matéria e nos afastam da perfeição espiritual. Por isso foi que Jesus disse:
 
 ::: bible
-*E outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de Deus.*<br><br>
+✝️ ► *E outra vez vos digo que é mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de Deus.*  
+
 Mateus, cap. 19, vers. 24, ARC
 :::
 
@@ -7782,7 +7795,8 @@ No que concerne à morte é que o homem se acha submetido, em absoluto, à inexo
 Segundo a doutrina vulgar, de si mesmo tiraria o homem todos os seus instintos, que, então, proviriam, ou da sua organização física, pela qual nenhuma responsabilidade lhe toca, ou da sua própria natureza, caso em que lícito lhe fora procurar desculpar-se consigo mesmo, dizendo não lhe pertencer a culpa de ser feito como é. Muito mais moral se mostra, indiscutivelmente, a Doutrina Espírita. Ela admite no homem o livre-arbítrio em toda a sua plenitude e, se lhe diz que, praticando o mal, ele cede a uma sugestão estranha e má, em nada lhe diminui a responsabilidade, pois lhe reconhece o poder de resistir, o que evidentemente lhe é muito mais fácil do que lutar contra a sua própria natureza. Assim, de acordo com a Doutrina Espírita, não há arrastamento irresistível: o homem pode sempre cerrar ouvidos à voz oculta que lhe fala no íntimo, induzindo-o ao mal, como pode cerrá-los à voz material daquele que lhe fale ostensivamente. Pode-o pela ação da sua vontade, pedindo a Deus a força necessária e reclamando, para tal fim, a assistência dos bons Espíritos. Foi o que Jesus nos ensinou por meio da sublime prece que é a **Oração dominical**, quando manda que digamos:
 
 ::: bible
-*E não nos induzas à tentação, mas livra-nos do mal ….*<br><br>
+✝️ ► *E não nos induzas à tentação, mas livra-nos do mal ….*  
+
 Mateus, cap. 6, vers. 13, ARC
 :::
 
@@ -7825,7 +7839,8 @@ Posto de parte o direito que a lei humana consagra, qual a base da justiça, seg
 > Disse o Cristo.
 
 ::: bible
-*Queira cada um para os outros o que quereria para si mesmo.*<br><br>
+✝️ ► *Queira cada um para os outros o que quereria para si mesmo.*  
+
 Livro, cap. X, vers. Y
 :::
 
@@ -7878,14 +7893,16 @@ Tem o homem o direito de defender os bens que haja conseguido juntar pelo seu tr
 > Não disse Deus:
 
 ::: bible
-Não furtarás.<br><br>
+✝️ ► Não furtarás.  
+
 Êxodo, cap. 20, vers. 15, ARC
 :::
 
 E Jesus não disse.
 
 ::: bible
-*Dai, pois, a César o que é de César e a Deus, o que é de Deus.*.<br><br>
+✝️ ► *Dai, pois, a César o que é de César e a Deus, o que é de Deus.*.  
+
 > Mateus, cap. 22, vers. 21, ARC
 :::
 
@@ -7928,7 +7945,8 @@ Qual o verdadeiro sentido da palavra caridade, como a entendia Jesus?
 O amor e a caridade são o complemento da lei de justiça, pois amar o próximo é fazer-lhe todo o bem que nos seja possível e que desejáramos nos fosse feito. Tal o sentido destas palavras de Jesus.
 
 ::: bible
-*Amarás o teu próximo como a ti mesmo.*<br><br>
+✝️ ► *Amarás o teu próximo como a ti mesmo.*  
+
 Mateus, cap. 22, vers. 39, ARC
 :::
 
@@ -7956,7 +7974,8 @@ Dar-se-á reproveis a esmola?
 Lembrai-vos também de que, aos olhos de Deus, a ostentação tira o mérito ao benefício. Disse Jesus:
 
 ::: bible
-*… não saiba a tua mão esquerda o que faz a tua direita ….*<br><br>
+✝️ ► *… não saiba a tua mão esquerda o que faz a tua direita ….*  
+
 Mateus, cap. 6, vers. 3, ARC
 :::
 
@@ -8083,7 +8102,8 @@ Incorre em culpa o homem, por estudar os defeitos alheios?
 > Incorrerá em grande culpa, se o fizer para os criticar e divulgar, porque será faltar com a caridade. Se o fizer, para tirar daí proveito, para evitá-los, tal estudo poderá ser-lhe de alguma utilidade. Importa, porém, não esquecer que a indulgência para com os defeitos de outrem é uma das virtudes contidas na caridade. Antes de censurardes as imperfeições dos outros, vede se de vós não poderão dizer o mesmo. Tratai, pois, de possuir as qualidades opostas aos defeitos que criticais no vosso semelhante. Esse o meio de vos tornardes superiores a ele. Se lhe censurais o ser avaro, sede generosos; se o ser orgulhoso, sede humildes e modestos; se o ser áspero, sede brandos; se o proceder com pequenez, sede grandes em todas as vossas ações. Numa palavra, fazei por maneira que se não vos possam aplicar estas palavras de Jesus:
 
 ::: bible
-*E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?.*<br><br>
+✝️ ► *E por que reparas tu no argueiro que está no olho do teu irmão e não vês a trave que está no teu olho?.*  
+
 Mateus, cap. 7, vers. 3, ARC
 :::
 
@@ -8306,7 +8326,8 @@ Criando novas necessidades, a civilização não constitui uma fonte de novas af
 > Os males deste mundo estão na razão das necessidades factícias que vós criais. A muitos desenganos se poupa nesta vida aquele que sabe restringir seus desejos e olha sem inveja para o que esteja acima de si. O que menos necessidades tem, esse o mais rico. Invejais os gozos dos que vos parecem os felizes do mundo. Sabeis, porventura, o que lhes está reservado? Se os seus gozos são todos pessoais, pertencem eles ao número dos egoístas: o reverso então virá. Deveis, de preferência, lastimá-los. Deus algumas vezes permite que o mau prospere, mas a sua felicidade não é de causar inveja, porque com lágrimas amargas a pagará. Quando um justo é infeliz, isso representa uma prova que lhe será levada em conta, se a suportar com coragem. Lembrai-vos destas palavras de Jesus:
 
 ::: bible
-*… bem-aventurados os que choram, porque eles serão consolados ….*<br><br>
+✝️ ► *… bem-aventurados os que choram, porque eles serão consolados ….*  
+
 Mateus, cap. 5, vers. 4, ARC
 :::
 

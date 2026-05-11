@@ -1,60 +1,91 @@
 @charset "UTF-8";
 
-:root { 
-  --accent: #4EC1F5; 
+:root {
+  --accent: #4EC1F5;
+  --bg-light: #f4f1e9;
+  --card-bg: white;
+  --text: #222;
+  --heading: #1e3a8a;
+  --bible-red: #9C2A2A;
 }
 
+/* Base */
 body {
   font-family: system-ui, -apple-system, sans-serif;
-  line-height: 1.6;
+  line-height: 1.75;
+  color: var(--text);
+  background: var(--bg-light);
   margin: 0;
   padding: 0;
-  background: #f4f1e9; /* Back to the neutral tone */
 }
 
-/* Single Column Layout for Editing */
+/* Layout */
 .container {
-  display: block; 
+  display: block;
   margin: 0 auto;
 }
 
 main {
-  background: white;
+  background: var(--card-bg);
   padding: 3rem;
   margin: 1rem;
   border-radius: 8px;
   box-shadow: 0 4px 20px rgba(0,0,0,0.08);
 }
 
-/* Admonition Fix: Ensuring emojis are inline */
-.spirit, .bible, .note, .grey {
-  padding: 1rem 1.5rem;
-  margin: 1.5rem 0;
+/* === CONTAINERS === */
+.spirit, .bible, .kardec {
+  padding: 1.35rem 1.7rem;
+  margin: 1.8rem 0;
   border-left: 6px solid;
-  border-radius: 4px;
+  border-radius: 0 6px 6px 0;
 }
 
-/* Backgrounds and Borders */
-.spirit { background: #eef6fc; border-color: #2196f3; }
-.bible { background: #fdf2f8; border-color: #d81b60; }
-.note, .grey { background: #f5f5f5; border-color: #757575; }
+/* Backgrounds */
+.spirit { background: #eef6fc; border-color: #4dacff; }
+.bible { background: #fdf2f8; border-color: #da71d7; }
+.kardec { background: #f5f5f5; border-color: #757575; }
 
-/* The Inline Emoji Logic */
-.spirit::before, .bible::before, .note::before, .grey::before {
-  display: inline; /* Forces it to stay on the same line as text */
-  margin-right: 8px;
-  font-weight: normal;
+/* === RIGHT-ALIGNED AUTHORS (last lines) === */
+.bible p:last-child,
+.spirit p:last-child {
+  text-align: right !important;
+  font-weight: bold;
+  margin-top: 2rem !important;
 }
 
-.spirit::before { content: "👻"; }
-.bible::before { content: "✝️"; }
-.note::before, .grey::before { content: "👴🏻"; }
-
-/* Force text inside containers to stay inline with the ::before */
-.spirit p, .bible p, .note p, .grey p {
-  display: inline;
+/* Red Letter Italics */
+.bible em,
+.bible i {
+  color: var(--bible-red) !important;
+  font-style: italic;
 }
 
-/* Footnotes & Expand remain the same */
+/* Paragraph spacing */
+.spirit p,
+.bible p,
+.kardec p {
+  margin-top: 0 !important;
+  margin-bottom: 0.9rem !important;
+}
+
+.spirit p + p,
+.bible p + p,
+.kardec p + p {
+  margin-top: 1.6rem !important;
+}
+
+.spirit p:last-child,
+.bible p:last-child,
+.kardec p:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* Footnotes */
 .details-content { padding: 1rem; }
-.footnotes { border-top: 1px solid #eee; margin-top: 3rem; font-size: 0.9rem; }
+
+.footnotes { 
+  border-top: 1px solid #eee; 
+  margin-top: 3rem; 
+  font-size: 0.95rem; 
+}
