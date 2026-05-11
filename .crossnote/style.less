@@ -1,0 +1,102 @@
+
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+
+.markdown-preview.markdown-preview {
+  // modify your style here
+  // eg: background-color: blue;
+  :root { --accent: #4EC1F5; }
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background: pink;
+}
+
+.container {
+  display: flex;
+  max-width: 1800px;
+  margin: 0 auto;
+  min-height: 100vh;
+}
+
+.sidebar, .right-panel {
+  width: 280px;
+  background: white;
+  padding: 1.5rem;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  border: 1px solid #ddd;
+  flex-shrink: 0;
+}
+
+main {
+  flex: 1;
+  padding: 2rem 3rem;
+  max-width: 820px;
+  background: white;
+  margin: 1rem 0.5rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+
+/* Custom Admonitions */
+.spirit, .bible, .note, .grey {
+  padding: 1.2rem 1.5rem;
+  margin: 1.5rem 0;
+  border-left: 6px solid;
+  border-radius: 4px;
+  display: flex; 
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.spirit { background: #eef6fc; border-color: #2196f3; color: #0d47a1; }
+.bible { background: #fdf2f8; border-color: #d81b60; color: #880e4f; }
+.note, .grey { background: #f5f5f5; border-color: #757575; color: #424242; }
+
+.spirit::before { content: "âœ¨"; }
+.bible::before { content: "ðŸ“–"; }
+.note::before, .grey::before { content: "ðŸ”˜"; }
+
+/* Expand/Details */
+details {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  margin: 1rem 0;
+  padding: 0;
+  background: white;
+  overflow: hidden;
+}
+summary { 
+  padding: 0.8rem 1rem;
+  font-weight: bold; 
+  cursor: pointer; 
+  background: #fafafa;
+}
+.details-content {
+  padding: 1rem;
+}
+
+/* Footnote Section Styling */
+.footnotes {
+  border-top: 1px solid #eee;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.footnotes-list {
+  padding-left: 1.5rem;
+}
+
+/* The [1] markers in the text */
+sup.footnote-ref a {
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0 2px;
+}
+}
