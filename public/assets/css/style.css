@@ -120,7 +120,6 @@ details.expand {
 
 details.expand summary {
   padding: 1rem 1.5rem;
-  background: #f8f9fa;
   font-weight: 600;
   cursor: pointer;
 }
@@ -160,4 +159,15 @@ h5:hover .heading-anchor
 
 h5,h6 {
   font-size: 1rem;
+}
+
+/* Selects all content elements inside the dropdown except the summary header */
+details.expand > *:not(summary) {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+/* Optional: Adds space to the very last text element before the bottom border */
+details.expand > *:last-child {
+  padding-bottom: 1.5rem;
 }
