@@ -6,57 +6,33 @@
   <title>O Livro dos Espíritos</title>
   <link rel="stylesheet" href="/assets/css/style.css">
   <style>
-    .container {
-      display: grid;
-      grid-template-columns: 340px 1fr;
-      min-height: 100vh;
-    }
+    .container { display: grid; grid-template-columns: 340px 1fr; min-height: 100vh; }
     .sidebar {
       background: #f8f9fa;
-      padding: 20px;
+      padding: 24px 20px;
       border-right: 1px solid #ddd;
       position: sticky;
       top: 0;
       height: 100vh;
       overflow-y: auto;
-      align-self: start;
     }
-    .toc-title {
-      font-weight: bold;
-      margin: 0 0 15px 0;
-      font-size: 1.1rem;
-    }
-    .toc-tree details {
-      margin-bottom: 6px;
-    }
+    .toc-title { font-weight: bold; margin: 0 0 18px 0; font-size: 1.15rem; }
+    .toc-tree details { margin-bottom: 8px; }
     .toc-tree summary {
       cursor: pointer;
       font-weight: 600;
       padding: 8px 10px;
-      border-radius: 4px;
+      border-radius: 6px;
       background: #f0f0f0;
     }
-    .toc-tree ul {
-      list-style: none;
-      padding-left: 1.2rem;
-      margin: 4px 0;
-    }
-    .toc-tree ul ul {
-      padding-left: 1.8rem;
-    }
-    .book-content {
-      padding: 40px 40px;
-      max-width: 900px;
-    }
-    body { font-family: system-ui, sans-serif; }
-  .sidebar { background: #f8f9fa; padding: 20px; }
-  .book-content { padding: 40px; max-width: 900px; }
+    .toc-tree ul { list-style: none; padding-left: 1.3rem; margin: 4px 0; }
+    .toc-tree ul ul { padding-left: 1.9rem; }
+    .book-content { padding: 40px 50px; max-width: 920px; }
   </style>
 </head>
 <body>
   <div class="container">
     
-    <!-- COLLAPSIBLE ACCORDION TOC - ALL CLOSED INITIALLY -->
     <aside class="sidebar">
       <p class="toc-title">
         <span class="emoji">📖</span> Nesta página
@@ -155,11 +131,10 @@
       <hr>
       <h4>📚 Livros</h4>
       <ul>
-        <li>👻 O Livro dos Espíritos</li>
+        <li><a href="/books/1-lde/">👻 O Livro dos Espíritos</a></li>
       </ul>
     </aside>
 
-    <!-- MAIN CONTENT -->
     <main class="book-content">
       <h1 id="lde">✨ O Livro dos Espíritos</h1>
 <h2 id="lde-0" tabindex="-1">0. 🗃️ Pré-textual <a class="heading-anchor" href="#lde-0">§</a></h2>
@@ -13996,7 +13971,7 @@ Janeiro, 1862<br>
   </div>
 
   <script>
-    // Accordion: only one open at a time
+    // Only one open at a time
     document.querySelectorAll('#accordion-toc details').forEach(detail => {
       detail.addEventListener('toggle', function() {
         if (this.open) {

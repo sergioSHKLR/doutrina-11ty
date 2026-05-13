@@ -13,7 +13,7 @@ Este espaço é dedicado à pesquisa e ao aprofundamento nos temas da Doutrina E
 :::
 
 ## Obras
-* [👻 O Livro dos Espíritos — Versão Completa](/books/1-lde/1-lde-dirty/)
+* [👻 O Livro dos Espíritos — Versão Completa](/books/1-lde/1-lde-full/)
 
 ::: note
 Eleventy + Markdown • Em desenvolvimento

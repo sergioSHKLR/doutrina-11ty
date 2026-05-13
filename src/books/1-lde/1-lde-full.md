@@ -1,6 +1,6 @@
 ---
 title: O Livro dos Espíritos
-layout: base.njk
+layout: 1-lde.njk
 version: 26.04.08  
 ---
 
