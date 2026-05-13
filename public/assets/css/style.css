@@ -135,7 +135,6 @@ p {
   margin-bottom: 1.3em;
 }
 
-/* Vine Image */
 img[src*="vine.png"],
 img[src*="vine"] {
   max-width: 680px;
@@ -143,7 +142,6 @@ img[src*="vine"] {
   height: auto;
   display: block;
   margin: 2rem auto;
-  border-radius: 8px;
 }
 
 /* Hide permalink anchors by default */
