@@ -59,11 +59,6 @@ body {
 }
 
 .toc-tree summary {
-  cursor: pointer;
-  font-weight: 600;
-  padding: 9px 12px;
-  border-radius: 6px;
-  background: #f0f0f0;
   margin-bottom: 4px;
 }
 
