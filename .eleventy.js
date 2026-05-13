@@ -36,8 +36,6 @@ module.exports = function (eleventyConfig) {
         }
       }
     })
-    .use(markdownItContainer, 'note')
-    .use(markdownItContainer, 'notes')
     .use(markdownItContainer, 'kardec')
     .use(markdownItContainer, 'spirit')
     .use(markdownItContainer, 'bible')
@@ -56,5 +54,6 @@ module.exports = function (eleventyConfig) {
     },
     templateFormats: ["md", "njk", "html"],
     markdownTemplateEngine: false,
+    pathPrefix: "/doutrina-11ty/"
   };
 };
