@@ -1,5 +1,5 @@
 ---
-title: "O Livro dos Espíritos"
+title: "👻 O Livro dos Espíritos"
 layout: base
 ---
 
@@ -9,25 +9,24 @@ layout: base
 
 ### 🗂️ Folha de rosto
 
-|  |
-|:---:|
-| Filosofia Espiritualista |
-|  |
-| **O Livro dos Espíritos** |
-|  |
-| Princípios da Doutrina Espírita |
-|  |
-| Sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns. |
-|  |
-| por Allan Kardec. |
-|  |
-| Tradução de Guillon Ribeiro. |
-|  |
-| Baseado no original ISBN 978-85-7328-728-8
-|  |
-| Modificado para o consumo digital por Sergio Schickler de |
-| 💧 doutrina.org |
-|  |
+::: grey-center
+Filosofia Espiritualista
+
+**O Livro dos Espíritos**
+
+Princípios da Doutrina Espírita
+
+Sobre a imortalidade da alma, a natureza dos Espíritos e suas relações com os homens, as leis morais, a vida presente, a vida futura e o porvir da humanidade — segundo os ensinos dados por Espíritos superiores com o concurso de diversos médiuns.
+
+por Allan Kardec.
+
+Tradução de Guillon Ribeiro.
+
+Baseado no original ISBN 978-85-7328-728-8
+
+Modificado para o consumo digital por Sergio Schickler de
+💧 doutrina.org
+:::
 
 ### 🗂️ Introdução
 
@@ -259,7 +258,6 @@ Perguntam eles: os Espíritos de escol descem até nós? Responderemos: Não fiq
 ✝️ ► *Ouvindo, ouvireis, mas não compreendereis e, vendo, vereis, mas não percebereis.*  
   
 Mateus, cap. 13, vers. 14, ARC  
-  
 :::
 
 Como variante dessa opinião, temos a dos que não veem, nas comunicações espíritas e em todos os fatos materiais a que elas dão lugar, mais do que a intervenção de uma potência diabólica, novo Proteu que revestiria todas as formas, para melhor nos enganar. Não a julgamos suscetível de exame sério, por isso não nos demoramos em considerá-la. Aliás, ela está refutada pelo que acabamos de dizer. Acrescentaremos, tão somente, que, se assim fosse, forçoso seria convir em que o diabo é às vezes bastante criterioso e ponderado, sobretudo, muito moral; ou, então, em que há bons diabos.
@@ -745,6 +743,7 @@ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e q
 Como criou Deus o Universo?
 
 > Para me servir de uma expressão corrente, direi: pela sua Vontade. Nada caracteriza melhor essa vontade onipotente do que estas belas palavras:
+
 ::: bible
 ✝️ ► Deus disse: Faça-se a luz e a luz foi feita.  
 
@@ -4518,6 +4517,7 @@ Renunciam às suas tentativas os Espíritos cuja influência a vontade do homem 
 Por que meio podemos neutralizar a influência dos maus Espíritos?
 
 > Praticando o bem e pondo em Deus toda a vossa confiança, repelireis a influência dos Espíritos inferiores e aniquilareis o império que desejem ter sobre vós. Guardai-vos de atender às sugestões dos Espíritos que vos suscitam maus pensamentos, que sopram a discórdia entre vós outros e que vos insuflam as paixões más. Desconfiai especialmente dos que vos exaltam o orgulho, pois que esses vos assaltam pelo lado fraco. Essa a razão por que Jesus, na oração dominical, vos ensinou a dizer:
+
 ::: bible
 ✝️ ► *E não nos induzas à tentação, mas livra-nos do mal ….*  
 
@@ -6128,7 +6128,7 @@ Será útil que oremos pelos mortos e pelos Espíritos sofredores? E, neste caso
 Que se deve pensar da opinião dos que rejeitam a prece em favor dos mortos, por não se achar prescrita no Evangelho?
 
 > Aos homens disse o Cristo:
-> 
+
 ::: bible
 ✝️ ► *Amarás o teu próximo como a ti mesmo.*  
 
@@ -7903,7 +7903,7 @@ E Jesus não disse.
 ::: bible
 ✝️ ► *Dai, pois, a César o que é de César e a Deus, o que é de Deus.*.  
 
-> Mateus, cap. 22, vers. 21, ARC
+Mateus, cap. 22, vers. 21, ARC
 :::
 
 >O que, por meio do trabalho **honesto**, o homem junta constitui legítima propriedade sua, que ele tem o direito de defender, porque a propriedade que resulta do trabalho é um direito natural, tão sagrado quanto o de trabalhar e de viver.

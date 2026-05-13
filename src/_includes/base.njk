@@ -8,9 +8,34 @@
 </head>
 <body>
   <div class="container">
-    <aside class="sidebar"><h3>📖 Menu</h3></aside>
-    <main>{{ content | safe }}</main>
-    <aside class="right-panel"><h3>🔍 Info</h3></aside>
+    
+    <!-- LEFT SIDEBAR with TOC -->
+    <aside class="sidebar">
+      <p class="toc-title">
+        <span class="emoji">📖</span> Nesta página
+      </p>
+      
+      <div class="toc-tree">
+        {{ content | toc | safe }}
+      </div>
+
+      <!-- Optional: Keep your other menu items below the TOC -->
+      <hr>
+      <h4>📚 Livros</h4>
+      <!-- Add your book links here if you want them in the sidebar -->
+    </aside>
+
+    <!-- MAIN CONTENT -->
+    <main>
+      {{ content | safe }}
+    </main>
+
+    <!-- RIGHT PANEL -->
+    <aside class="right-panel">
+      <h3>🔍 Info</h3>
+      <!-- Your existing right panel content -->
+    </aside>
+
   </div>
 </body>
 </html>
