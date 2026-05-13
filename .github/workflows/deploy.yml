@@ -1,10 +1,8 @@
 name: Deploy to GitHub Pages
 
 on:
-  # Trigger on push to main branch
   push:
     branches: [ main, master ]
-  # Allow manual trigger
   workflow_dispatch:
 
 permissions:
@@ -17,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Node.js
@@ -29,7 +27,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build with Eleventy
+      - name: Build Eleventy
         run: npx @11ty/eleventy
 
       - name: Setup GitHub Pages
@@ -38,7 +36,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '_site'        # Change to 'public' if you prefer that output
+          path: '_site'          # Change to 'public' if you use that output folder
 
   deploy:
     environment:
