@@ -19189,23 +19189,19 @@ Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que
 
 📓 Revista Espírita
 Outubro, 1862
-:::
 
 De fato, as leis universais do amor, da caridade, da imortalidade da alma, da reencarnação, da evolução constituem novos parâmetros para a compreensão do desenvolvimento dos grupos humanos, nas diversas regiões do Orbe.
 
 Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 
-::: spirit
 ✨ O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade.
 
 LDE, Q.207
-:::
 
 👴🏻 ▸ … o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor.
 
 📓 Revista Espírita
 Outubro, 1861
-:::
 
 👴🏻 ▸ Os privilégios de raças têm sua origem na abstração que os homens geralmente fazem do princípio espiritual, para considerar apenas o ser material exterior. Da força ou da fraqueza constitucional de uns, de uma diferença de cor em outros, do nascimento na opulência ou na miséria, da filiação consanguínea nobre ou plebeia, concluíram por uma superioridade ou uma inferioridade natural. Foi sobre este dado que estabeleceram suas leis sociais e os privilégios de raças. Deste ponto de vista circunscrito, são consequentes consigo mesmos, porquanto, não considerando senão a vida material, certas classes parecem pertencer, e realmente pertencem, a raças diferentes.
 
@@ -19215,7 +19211,6 @@ Vós que negais a existência do Espírito para considerar apenas o homem corpor
 
 📓 Revista Espírita
 Junho, 1867
-:::
 
 👴🏻 ▸ Com a reencarnação, desaparecem os preconceitos de raças e de castas, pois o mesmo Espírito pode tornar a nascer rico ou pobre, capitalista ou proletário, chefe ou subordinado, livre ou escravo, homem ou mulher. De todos os argumentos invocados contra a injustiça da servidão e da escravidão, contra a sujeição da mulher à lei do mais forte, nenhum há que prime, em lógica, ao fato material da reencarnação. Se, pois, a reencarnação funda numa Lei da Natureza o princípio da fraternidade universal, também funda na mesma lei o da igualdade dos direitos sociais e, por conseguinte, o da liberdade.
 
@@ -19223,7 +19218,6 @@ Junho, 1867
 cap. 1, item 36
 📓 Revista Espírita
 Setembro, 1867
-:::
 
 Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito dos selvagens africanos, sempre reduzidos ao embrutecimento quase total, quando não escravizados impiedosamente.
 
@@ -19234,34 +19228,29 @@ Na época, Allan Kardec sabia apenas o que vários autores contavam a respeito d
 Allan Kardec
 📓 Revista Espírita
 Janeiro, 1863
-:::
 
 👴🏻 ▸ O homem de bem é bom, humano e benevolente para com todos, sem distinção de raças nem de crenças, porque em todos os homens vê irmãos seus.
 
 🕊️ O Evangelho segundo o Espiritismo
 cap. 17, item 3
-:::
 
 É importante compreender, também, que os textos publicados por Allan Kardec na 📓 Revista Espírita tinham por finalidade submeter à avaliação geral as comunicações recebidas dos Espíritos, bem como aferir a correspondência desses ensinos com teorias e sistemas de pensamento vigentes à época. Em Nota ao capítulo 11, item 43, do livro 🌱*A Gênese*, o Codificador explica essa metodologia:
 
 👴🏻 ▸ Quando, na 📓 Revista Espírita de janeiro de 1862, publicamos um artigo sobre a "interpretação da doutrina dos anjos decaídos", apresentamos essa teoria como simples hipótese, sem outra autoridade afora a de uma opinião pessoal controversa, porque nos faltavam então elementos bastantes para uma afirmação peremptória. Expusemo-la a título de ensaio, tendo em vista provocar o exame da questão, decidido, porém, a abandoná-la ou modificá-la, se fosse preciso. Presentemente, essa teoria já passou pela prova do controle universal. Não só foi bem aceita pela maioria dos espíritas, como a mais racional e a mais concorde com a soberana justiça de Deus, mas também foi confirmada pela generalidade das instruções que os Espíritos deram sobre o assunto. O mesmo se verificou com a que concerne à origem da raça adâmica.
  
- 🌱 A Gênese
+🌱 A Gênese
 cap. 11, item 43, Nota
-:::
 
 Por fim, urge reconhecer que o escopo principal da Doutrina Espírita reside no aperfeiçoamento moral do ser humano, motivo pelo qual as indagações e perquirições científicas e/ou filosóficas ocupam posição secundária, conquanto importantes, haja vista o seu caráter provisório decorrente do progresso e do aperfeiçoamento geral. Nesse sentido, é justa a advertência do Codificador:
 
 👴🏻 ▸ É verdade que esta e outras questões se afastam do ponto de vista moral, que é a meta essencial do Espiritismo. Eis por que seria um equívoco fazê-las objeto de preocupações constantes. Sabemos, aliás, no que respeita ao princípio das coisas, que os Espíritos, por não saberem tudo, só dizem o que sabem ou que pensam saber. Mas como há pessoas que poderiam tirar da divergência desses sistemas uma indução contra a unidade do Espiritismo, precisamente porque são formulados pelos Espíritos, é útil poder comparar as razões pró e contra, no interesse da própria doutrina, e apoiar no assentimento da maioria o julgamento que se pode fazer do valor de certas comunicações.
  
- 📓 Revista Espírita
+📓 Revista Espírita
 Janeiro, 1862
-:::
 
 Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigora o mais absoluto respeito à diversidade humana, cabendo ao espírita o dever de cooperar para o progresso da Humanidade, exercendo a caridade no seu sentido mais abrangente (*benevolência para com todos, indulgência para as imperfeições dos outros e perdão das ofensas*), tal como a entendia Jesus, nosso Guia e Modelo, sem preconceitos de nenhuma espécie: de cor, etnia, sexo, crença ou condição econômica, social ou moral.
 
 A Editora (FEB)
-:::
 
 ---
 
@@ -26648,7 +26637,6 @@ excesso de – [Q.736](#q736)
 
 ### 6.03 📃 Notas de rodapé {#lde-6-03}
 
-ARC: https://www.bible.com/pt/versions/212
 [^1]: Nota da Editora (N.E.). Na mitologia grega, é deus marinho que podia assumir diferentes formas; por extensão de sentido é indivíduo que muda facilmente de opinião.
     
 [^2]: Nota de Allan Kardec (A.K.): Há entre esta doutrina da reencarnação e a da metempsicose, como a admitem certas seitas, uma diferença característica, que é explicada no curso da presente obra.
