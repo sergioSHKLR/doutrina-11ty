@@ -4,9 +4,8 @@ const markdownItAnchor = require("markdown-it-anchor");
 const markdownItAttrs = require("markdown-it-attrs");
 const markdownItContainer = require("markdown-it-container");
 const footnote = require("markdown-it-footnote");
-const tocPlugin = require("markdown-it-toc-done-right");
 
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
 
   const md = markdownIt({
     html: true,
@@ -20,10 +19,10 @@ module.exports = function(eleventyConfig) {
       permalinkSymbol: "§",
       level: [2, 3, 4, 5, 6]
     })
-    // Restore all your containers
+    // Containers
     .use(markdownItContainer, 'grey-center', {
-      render: (tokens, idx) => tokens[idx].nesting === 1 
-        ? '<div class="grey-center">\n' 
+      render: (tokens, idx) => tokens[idx].nesting === 1
+        ? '<div class="grey-center">\n'
         : '</div>\n'
     })
     .use(markdownItContainer, 'expand', {
@@ -37,33 +36,17 @@ module.exports = function(eleventyConfig) {
         }
       }
     })
-    // Add more containers if needed (notes, bible, spirit, etc.)
+    .use(markdownItContainer, 'note')
     .use(markdownItContainer, 'notes')
-    .use(markdownItContainer, 'bible')
+    .use(markdownItContainer, 'kardec')
     .use(markdownItContainer, 'spirit')
-    .use(footnote)
-    .use(tocPlugin, {
-      containerClass: "toc",
-      listType: "ul",
-      level: [2, 3, 4, 5],
-      includeLevel: [2, 3, 4, 5]
-    });
+    .use(markdownItContainer, 'bible')
+    .use(footnote);
 
   eleventyConfig.setLibrary("md", md);
 
-  // Filters for TOC
-  eleventyConfig.addFilter("toc", function(content) {
-    const match = content.match(/<nav class="toc">[\s\S]*?<\/nav>/i);
-    return match ? match[0] : '';
-  });
-
-  eleventyConfig.addFilter("stripToc", function(content) {
-    return content.replace(/<nav class="toc">[\s\S]*?<\/nav>/i, '');
-  });
-
+  // Passthrough files
   eleventyConfig.addPassthroughCopy("src/assets");
-  eleventyConfig.addPassthroughCopy("src/assets");
-  eleventyConfig.addPassthroughCopy("src/images");
 
   return {
     dir: {
