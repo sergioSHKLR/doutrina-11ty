@@ -26,7 +26,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: 'npm'
 
       - name: Install Dependencies
@@ -36,12 +36,11 @@ jobs:
         run: npx @11ty/eleventy
 
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
 
       - name: Upload Artifacts
         uses: actions/upload-pages-artifact@v3
         with:
-          # Crucial: Target your custom 11ty output directory
           path: './docs'
 
       - name: Deploy to GitHub Pages
