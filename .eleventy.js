@@ -4,6 +4,7 @@ module.exports = function (eleventyConfig) {
   // Passthrough copies
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("src/images");
+  eleventyConfig.addPassthroughCopy("src/css");
 
   // Register TOC filter
   const nestingToc = require('eleventy-plugin-nesting-toc');
