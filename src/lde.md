@@ -37,7 +37,7 @@ por Sergio de
 ### 📄 0.02 Prefácio {#lde-0-02}
 
 ::: grey-center
-![Cepa Espírita](/images/vine.png)
+![Cepa Espírita](../vine.png)
 Interpretação artística do desenho original (mediúnico).
 :::
 
