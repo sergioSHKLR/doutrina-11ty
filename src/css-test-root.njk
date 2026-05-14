@@ -3,14 +3,14 @@ title: CSS Test - Root Relative
 layout: base.njk
 ---
 
-<h1>Test 1: Root-relative CSS (/css/styles.css or /assets/css/...)</h1>
-
-<div class="test-box" style="padding: 20px; border: 3px solid #e11; background: white;">
-  If this box has red border and styling from external CSS → SUCCESS
+<div style="font-family: system-ui; margin: 40px;">
+  <h1>CSS Test: Root Relative (/css/styles.css)</h1>
+  <div id="test-box" style="padding: 20px; background: white; border: 3px solid #e11; border-radius: 8px; margin: 20px 0;">
+    If this box has a red border → external CSS is loading
+  </div>
+  <p>Current URL: <code id="url"></code></p>
 </div>
 
-<p>Current URL: <code id="path"></code></p>
-
 <script>
-document.getElementById('path').textContent = window.location.pathname;
+  document.getElementById('url').textContent = window.location.href;
 </script>
