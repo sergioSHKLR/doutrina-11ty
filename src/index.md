@@ -1,6 +1,6 @@
 ---
 title: doutrina.org
-layout: base
+layout: base.njk
 ---
 
 Estudos Integrados da Doutrina Espírita
