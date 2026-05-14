@@ -56,6 +56,5 @@ module.exports = function (eleventyConfig) {
     },
     templateFormats: ["md", "njk", "html"],
     markdownTemplateEngine: "njk",
-    pathPrefix: "/doutrina-11ty/"
   };
 };
