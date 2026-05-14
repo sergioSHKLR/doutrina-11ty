@@ -1,8 +1,9 @@
 ---
-title: doutrina.org
+title: Estudos Integrados da Doutrina Espírita
 layout: base.njk
+permalink: /
 ---
 
-Estudos Integrados da Doutrina Espírita
+# Estudos Integrados da Doutrina Espírita
 
-[O Livro dos Espíritos](/books/1-lde)
+Bem-vindo ao site de estudos da Doutrina Espírita.
