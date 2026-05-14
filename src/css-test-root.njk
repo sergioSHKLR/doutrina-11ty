@@ -1,0 +1,16 @@
+---
+title: CSS Test - Root Relative
+layout: base.njk
+---
+
+<h1>Test 1: Root-relative CSS (/css/styles.css or /assets/css/...)</h1>
+
+<div class="test-box" style="padding: 20px; border: 3px solid #e11; background: white;">
+  If this box has red border and styling from external CSS → SUCCESS
+</div>
+
+<p>Current URL: <code id="path"></code></p>
+
+<script>
+document.getElementById('path').textContent = window.location.pathname;
+</script>
