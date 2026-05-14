@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test 1 - Absolute Path</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <h1>Test 1: Absolute Path (/css/...)</h1>
+    <div class="test-box">If this box has a red border and nice styling → SUCCESS</div>
+    <p>Current path: <code id="path"></code></p>
+
+    <script>
+        document.getElementById('path').textContent = window.location.pathname;
+    </script>
+</body>
+</html>
