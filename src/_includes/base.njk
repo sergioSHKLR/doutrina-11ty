@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ title or "doutrina.org" }}</title>
-<link rel="stylesheet" href="/assets/css/style.css"></head>   <!-- ← BUG 1 -->
-<body>
-  <div class="container">
-    <aside class="sidebar">
-      <p class="toc-title">Menu</p>
-      <!-- Sidebar content for normal pages -->
-    </aside>
-    <main>
-      {{ content | safe }}
-    </main>
-  </div>
-</body>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ title or "doutrina.org" }}</title>
+    <link rel="stylesheet" href="/assets/style.css"></head>
+  <body>
+    <div class="container">
+      <aside class="sidebar">
+        <p class="toc-title">Menu</p>
+        <!-- Sidebar content for normal pages -->
+      </aside>
+      <main>
+        {{ content | safe }}
+      </main>
+    </div>
+  </body>
 </html>

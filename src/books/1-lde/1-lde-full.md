@@ -3,6 +3,7 @@ title: O Livro dos Espíritos
 layout: 1-lde.njk
 permalink: /books/1-lde/
 version: 26.05.13
+templateEngineOverride: md
 ---
 
 # ✨ O Livro dos Espíritos {#lde}
