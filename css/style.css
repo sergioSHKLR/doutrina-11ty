@@ -1,3 +1,0 @@
-/* TEST CSS FROM root css/style.css */
-body { background: #e8f5e9 !important; }
-#css-test-banner { position: fixed; top: 10px; right: 10px; background: green; color: white; padding: 10px; z-index: 9999; font-weight: bold; }

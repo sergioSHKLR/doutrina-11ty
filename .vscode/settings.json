@@ -1,5 +1,0 @@
-{
-  "markdown.styles": [
-    "${workspaceFolder}/src/style.css"
-  ]
-}

@@ -1,7 +1,6 @@
 ---
 title: O Livro dos Espíritos
-layout: base.njk
-permalink: /books/1-lde/
+layout: lde.njk
 version: 26.05.13
 templateEngineOverride: md
 ---

@@ -1,3 +1,0 @@
-/* TEST CSS FROM src/assets/css/style.css */
-body { background: #ffebee !important; }
-#css-test-banner { position: fixed; top: 10px; right: 10px; background: red; color: white; padding: 10px; z-index: 9999; font-weight: bold; }

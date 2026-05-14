@@ -1,23 +1,17 @@
 module.exports = function (eleventyConfig) {
   // Markdown plugins setup (anchors, containers, etc.)
 
-  // Passthrough copies
-  eleventyConfig.addPassthroughCopy("src/assets");
-  eleventyConfig.addPassthroughCopy("src/images");
-  eleventyConfig.addPassthroughCopy("src/css");
-
-  // Register TOC filter
-  const nestingToc = require('eleventy-plugin-nesting-toc');
-  eleventyConfig.addPlugin(nestingToc);
+  // Copy `css/fonts/` to `_site/css/fonts/`
+  // Keeps the same directory structure.
+  eleventyConfig.addPassthroughCopy("src");
 
   return {
     dir: {
       input: "src",
-      output: "docs",
+      output: "_site",
       includes: "_includes"
     },
     templateFormats: ["md", "njk", "html"],
     markdownTemplateEngine: "njk",
-    pathPrefix: "/doutrina-11ty/"
   };
-};
+}

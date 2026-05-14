@@ -4,16 +4,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ title or "doutrina.org" }}</title>
-  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="./style.css">
 </head>
 <body>
   <div class="container">
     <!-- LEFT SIDEBAR -->
     <aside class="sidebar">
       <p class="toc-title"><span class="emoji">📖</span> Nesta página</p>
-      <div class="toc-tree">
-        {{ content | toc | safe or "" }}
-      </div>
+   
     </aside>
 
     <!-- MAIN CONTENT -->
