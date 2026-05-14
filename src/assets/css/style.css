@@ -1,0 +1,20 @@
+/* DEBUG CSS FROM src/assets/css/style.css */
+
+body {
+  background-color: #ffebee !important;
+}
+
+body::before {
+  content: "🔴 CSS LOADED FROM src/assets/css/style.css";
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: #d32f2f;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 12px;
+  z-index: 99999;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+  pointer-events: none;
+}
