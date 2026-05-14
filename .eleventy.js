@@ -54,7 +54,7 @@ module.exports = function (eleventyConfig) {
       includes: "_includes"
     },
     templateFormats: ["md", "njk", "html"],
-    markdownTemplateEngine: false,
+    markdownTemplateEngine: true,
     pathPrefix: "/doutrina-11ty/"
   };
 };
