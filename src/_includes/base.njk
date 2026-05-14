@@ -12,7 +12,7 @@
     <aside class="sidebar">
       <p class="toc-title"><span class="emoji">📖</span> Nesta página</p>
       <div class="toc-tree">
-        {{ content | toc | safe }}
+        {{ content | toc | safe or "" }}
       </div>
     </aside>
 

@@ -1,9 +1,13 @@
 module.exports = function (eleventyConfig) {
   // Markdown plugins setup (anchors, containers, etc.)
 
-  // Passthrough copies - explicit for CSS
+  // Passthrough copies
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("src/images");
+
+  // Register TOC filter
+  const nestingToc = require('eleventy-plugin-nesting-toc');
+  eleventyConfig.addPlugin(nestingToc);
 
   return {
     dir: {
