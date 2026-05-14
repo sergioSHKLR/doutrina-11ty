@@ -42,7 +42,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Crucial: Target your custom 11ty output directory
-          path: './public'
+          path: './docs'
 
       - name: Deploy to GitHub Pages
         id: deployment
